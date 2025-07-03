@@ -1,4 +1,5 @@
 # 🧠 Bitcoin ML Trading Bot
+skibidi toilet
 
 A real-time, 24/7 Bitcoin scalping bot using machine learning and price action patterns. Built to be modular, efficient, and emotionless.
 
