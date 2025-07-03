@@ -1,0 +1,11 @@
+pandas
+numpy
+ccxt
+python-telegram-bot
+joblib
+scikit-learn
+matplotlib
+sqlalchemy
+python-dotenv
+requests
+tensorflow

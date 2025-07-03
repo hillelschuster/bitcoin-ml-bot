@@ -1,0 +1,17 @@
+{
+  "symbol": "BTC/USDT",
+  "timeframe": "1m",
+  "cooldown_minutes": 5,
+  "atr_period": 14,
+  "risk_per_trade": 0.01,
+  "model_reload_interval": 10,
+  "report_hour": 23,
+  "test_mode": true,
+  "cycle_interval": 60,
+  "min_confidence": 0.58,
+  "force_confidence_mode": "auto",
+  "trading": {
+    "sentiment_threshold": 40,
+    "sentiment_update_interval": 30
+  }
+}

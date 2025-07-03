@@ -1,0 +1,215 @@
+2025-04-10 11:12:40,265 - __main__ - INFO - Sending test notification...
+2025-04-10 11:12:40,532 - __main__ - INFO - Test notification sent!
+2025-04-10 11:12:40,534 - config - INFO - Configuration loaded from config.json
+2025-04-10 11:12:40,535 - config - INFO - API key loaded from environment variable
+2025-04-10 11:12:40,535 - config - INFO - API secret loaded from environment variable
+2025-04-10 11:12:40,536 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 11:12:40,537 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 11:12:40,538 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 11:12:40,893 - exchange - INFO - Connected to Binance Futures. Server time: 1744272761588
+2025-04-10 11:12:40,894 - exchange - INFO - Initialized binance exchange client (testnet: True)
+2025-04-10 11:12:41,723 - __main__ - INFO - Current position amount: 0.0
+2025-04-10 11:12:41,993 - __main__ - INFO - Testing UP signal notification...
+2025-04-10 11:12:42,248 - __main__ - INFO - Would place BUY order here...
+2025-04-10 11:12:42,495 - __main__ - INFO - Test completed!
+2025-04-10 11:20:47,541 - config - INFO - Configuration loaded from config.json
+2025-04-10 11:20:47,542 - config - INFO - API key loaded from environment variable
+2025-04-10 11:20:47,543 - config - INFO - API secret loaded from environment variable
+2025-04-10 11:20:47,543 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 11:20:47,544 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 11:20:47,545 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 11:20:48,545 - exchange - INFO - Connected to Binance Futures. Server time: 1744273249251
+2025-04-10 11:20:48,546 - exchange - INFO - Initialized binance exchange client (testnet: True)
+2025-04-10 11:20:48,547 - __main__ - INFO - Sending test notification...
+2025-04-10 11:20:50,457 - __main__ - INFO - Current price: 81656.2, Position: 0.0
+2025-04-10 11:20:50,772 - __main__ - INFO - Testing UP signal notification...
+2025-04-10 11:20:51,611 - __main__ - INFO - Test completed!
+2025-04-10 11:25:04,377 - config - INFO - Configuration loaded from config.json
+2025-04-10 11:25:04,377 - config - INFO - API key loaded from environment variable
+2025-04-10 11:25:04,378 - config - INFO - API secret loaded from environment variable
+2025-04-10 11:25:04,378 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 11:25:04,378 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 11:25:04,378 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 11:25:04,424 - model - INFO - Model loaded from models/price_prediction_model.joblib
+2025-04-10 11:25:04,428 - model - INFO - Scaler loaded from models\price_scaler.joblib
+2025-04-10 11:25:04,428 - model - INFO - Initialized Random Forest prediction model
+2025-04-10 11:25:04,429 - __main__ - INFO - Testing predict method...
+2025-04-10 11:25:04,429 - __main__ - INFO - Prediction: HOLD, Confidence: 0.00
+2025-04-10 11:25:04,430 - __main__ - INFO - Testing with empty DataFrame...
+2025-04-10 11:25:04,433 - __main__ - INFO - Prediction: HOLD, Confidence: 0.00
+2025-04-10 11:25:04,433 - __main__ - INFO - Test completed!
+2025-04-10 11:51:31,416 - config - INFO - Configuration loaded from config.json
+2025-04-10 11:51:31,419 - config - INFO - API key loaded from environment variable
+2025-04-10 11:51:31,419 - config - INFO - API secret loaded from environment variable
+2025-04-10 11:51:31,419 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 11:51:31,420 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 11:51:31,420 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 11:51:31,420 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 11:51:31,420 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 11:51:31,421 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 11:51:31,423 - monitor - INFO - Loaded monitoring state
+2025-04-10 11:51:31,423 - monitor - INFO - Monitoring system initialized
+2025-04-10 11:51:31,423 - __main__ - INFO - Sending test notification...
+2025-04-10 11:52:11,342 - config - INFO - Configuration loaded from config.json
+2025-04-10 11:52:11,343 - config - INFO - API key loaded from environment variable
+2025-04-10 11:52:11,343 - config - INFO - API secret loaded from environment variable
+2025-04-10 11:52:11,343 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 11:52:11,344 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 11:52:11,344 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 11:52:11,344 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 11:52:11,344 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 11:52:11,345 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 11:52:11,346 - monitor - INFO - Loaded monitoring state
+2025-04-10 11:52:11,347 - monitor - INFO - Monitoring system initialized
+2025-04-10 11:52:11,347 - __main__ - INFO - Sending test notification...
+2025-04-10 11:52:13,732 - __main__ - INFO - Current price: 81543.6, Position: 0.0, Balance: 15000.0
+2025-04-10 11:52:14,143 - __main__ - INFO - Testing UP signal notification...
+2025-04-10 11:52:14,857 - monitor - INFO - Trade logged: {'symbol': 'BTCUSDT', 'price': 81543.6, 'quantity': 0.001, 'action': 'buy', 'position': 0.001, 'balance': 15000.0, 'signal': 'UP', 'confidence': 3.5, 'value': 81.54360000000001, 'profit': 0, 'timestamp': '2025-04-10T11:52:14.850447'}
+2025-04-10 11:52:15,109 - __main__ - INFO - Test completed!
+2025-04-10 12:06:22,133 - config - INFO - Configuration loaded from config.json
+2025-04-10 12:06:22,135 - config - INFO - API key loaded from environment variable
+2025-04-10 12:06:22,136 - config - INFO - API secret loaded from environment variable
+2025-04-10 12:06:22,136 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 12:06:22,137 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 12:06:22,138 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 12:06:22,139 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 12:06:22,141 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 12:06:22,148 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 12:06:24,663 - __main__ - ERROR - Error getting open orders: orderId is mandatory, but received empty.
+2025-04-10 12:13:46,586 - config - INFO - Configuration loaded from config.json
+2025-04-10 12:13:46,592 - config - INFO - API key loaded from environment variable
+2025-04-10 12:13:46,594 - config - INFO - API secret loaded from environment variable
+2025-04-10 12:13:46,595 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 12:13:46,598 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 12:13:46,599 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 12:13:46,600 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 12:13:46,601 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 12:13:46,616 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 12:13:48,074 - __main__ - ERROR - Error getting open orders: orderId is mandatory, but received empty.
+2025-04-10 13:38:20,993 - config - INFO - Configuration loaded from config.json
+2025-04-10 13:38:20,993 - config - INFO - API key loaded from environment variable
+2025-04-10 13:38:20,998 - config - INFO - API secret loaded from environment variable
+2025-04-10 13:38:20,998 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 13:38:20,998 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 13:38:20,998 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 13:38:20,998 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 13:38:20,998 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 13:38:21,001 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 13:38:21,001 - data - INFO - Initialized data handler for BTCUSDT (1h)
+2025-04-10 13:38:21,005 - auto_retrain - INFO - Initialized model retrainer with config: config.json
+2025-04-10 13:38:21,005 - auto_retrain - INFO - Running immediate retraining
+2025-04-10 13:38:21,005 - auto_retrain - INFO - Starting model retraining process
+2025-04-10 13:38:21,021 - auto_retrain - INFO - Extracted 110 trades from database
+2025-04-10 13:38:21,027 - auto_retrain - INFO - Signal accuracy: {'DOWN': 0.7543859649122807, 'UP': 0.5849056603773585}
+2025-04-10 13:38:21,037 - auto_retrain - INFO - Correlation between confidence and success: -0.4505
+2025-04-10 13:38:21,040 - auto_retrain - INFO - Generated labeled data with 110 entries
+2025-04-10 13:38:21,042 - auto_retrain - INFO - Fetching historical data for BTCUSDT (1h)
+2025-04-10 13:38:22,375 - data - INFO - Processing market data
+2025-04-10 13:38:22,440 - data - INFO - Processed data shape: (451, 28)
+2025-04-10 13:38:22,440 - auto_retrain - ERROR - Error fetching market data: 'timestamp'
+2025-04-10 13:39:04,969 - config - INFO - Configuration loaded from config.json
+2025-04-10 13:39:04,969 - config - INFO - API key loaded from environment variable
+2025-04-10 13:39:04,969 - config - INFO - API secret loaded from environment variable
+2025-04-10 13:39:04,969 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 13:39:04,969 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 13:39:04,969 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 13:39:04,969 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 13:39:04,969 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 13:39:04,969 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 13:39:04,969 - data - INFO - Initialized data handler for BTCUSDT (1h)
+2025-04-10 13:39:04,969 - auto_retrain - INFO - Initialized model retrainer with config: config.json
+2025-04-10 13:39:04,969 - auto_retrain - INFO - Running immediate retraining
+2025-04-10 13:39:04,969 - auto_retrain - INFO - Starting model retraining process
+2025-04-10 13:39:04,978 - auto_retrain - INFO - Extracted 110 trades from database
+2025-04-10 13:39:04,982 - auto_retrain - INFO - Signal accuracy: {'DOWN': 0.7543859649122807, 'UP': 0.5849056603773585}
+2025-04-10 13:39:04,982 - auto_retrain - INFO - Correlation between confidence and success: -0.4505
+2025-04-10 13:39:04,982 - auto_retrain - INFO - Generated labeled data with 110 entries
+2025-04-10 13:39:04,982 - auto_retrain - INFO - Generating synthetic market data for testing
+2025-04-10 13:39:04,991 - auto_retrain - ERROR - Error fetching market data: 'id'
+2025-04-10 13:39:35,877 - config - INFO - Configuration loaded from config.json
+2025-04-10 13:39:35,879 - config - INFO - API key loaded from environment variable
+2025-04-10 13:39:35,879 - config - INFO - API secret loaded from environment variable
+2025-04-10 13:39:35,879 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 13:39:35,879 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 13:39:35,879 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 13:39:35,879 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 13:39:35,879 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 13:39:35,879 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 13:39:35,887 - data - INFO - Initialized data handler for BTCUSDT (1h)
+2025-04-10 13:39:35,897 - auto_retrain - INFO - Initialized model retrainer with config: config.json
+2025-04-10 13:39:35,899 - auto_retrain - INFO - Running immediate retraining
+2025-04-10 13:39:35,902 - auto_retrain - INFO - Starting model retraining process
+2025-04-10 13:39:35,939 - auto_retrain - INFO - Extracted 110 trades from database
+2025-04-10 13:39:35,945 - auto_retrain - INFO - Signal accuracy: {'DOWN': 0.7543859649122807, 'UP': 0.5849056603773585}
+2025-04-10 13:39:35,956 - auto_retrain - INFO - Correlation between confidence and success: -0.4505
+2025-04-10 13:39:35,971 - auto_retrain - INFO - Generated labeled data with 110 entries
+2025-04-10 13:39:35,973 - auto_retrain - INFO - Generating synthetic market data for testing
+2025-04-10 13:39:35,985 - auto_retrain - INFO - Generated synthetic market data with 110 entries
+2025-04-10 13:39:36,039 - auto_retrain - INFO - Prepared training data with 88 samples and 10 features
+2025-04-10 13:39:36,048 - auto_retrain - INFO - Training LightGBM model...
+2025-04-10 13:39:36,147 - auto_retrain - INFO - Model performance: {'accuracy': 0.7272727272727273, 'precision': 0.7142857142857143, 'recall': 1.0, 'f1_score': 0.8333333333333334}
+2025-04-10 13:39:36,154 - auto_retrain - INFO - Model saved to models/lightgbm_model.pkl
+2025-04-10 13:39:36,154 - auto_retrain - INFO - Scaler saved to models\lightgbm_scaler.pkl
+2025-04-10 13:39:36,158 - auto_retrain - INFO - Top 10 important features:
+2025-04-10 13:39:36,163 - auto_retrain - INFO - close: 29
+2025-04-10 13:39:36,167 - auto_retrain - INFO - volume_features: 14
+2025-04-10 13:39:36,168 - auto_retrain - INFO - macd: 10
+2025-04-10 13:39:36,169 - auto_retrain - INFO - rsi: 10
+2025-04-10 13:39:36,170 - auto_retrain - INFO - volatility: 9
+2025-04-10 13:39:36,170 - auto_retrain - INFO - volume: 8
+2025-04-10 13:39:36,172 - auto_retrain - INFO - returns: 8
+2025-04-10 13:39:36,172 - auto_retrain - INFO - ma_distance: 7
+2025-04-10 13:39:36,172 - auto_retrain - INFO - momentum: 2
+2025-04-10 13:39:36,172 - auto_retrain - INFO - candle_patterns: 0
+2025-04-10 13:39:36,174 - auto_retrain - INFO - Model retraining completed successfully
+2025-04-10 14:21:52,723 - config - INFO - Configuration loaded from config.json
+2025-04-10 14:21:52,727 - config - INFO - API key loaded from environment variable
+2025-04-10 14:21:52,728 - config - INFO - API secret loaded from environment variable
+2025-04-10 14:21:52,729 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 14:21:52,729 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 14:21:52,731 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 14:21:52,731 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 14:21:52,731 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 14:28:38,796 - config - INFO - Configuration loaded from config.json
+2025-04-10 14:28:38,796 - config - INFO - API key loaded from environment variable
+2025-04-10 14:28:38,796 - config - INFO - API secret loaded from environment variable
+2025-04-10 14:28:38,796 - config - INFO - Testnet setting loaded from environment variable: True
+2025-04-10 14:28:38,796 - config - INFO - Direct Binance API key loaded from environment variable
+2025-04-10 14:28:38,796 - config - INFO - Direct Binance secret key loaded from environment variable
+2025-04-10 14:28:38,804 - config - INFO - Telegram bot token loaded from environment variable
+2025-04-10 14:28:38,804 - config - INFO - Telegram chat ID loaded from environment variable
+2025-04-10 14:28:38,804 - exchange - INFO - Initialized Binance Futures client for BTCUSDT
+2025-04-10 14:28:38,812 - trade_logger - INFO - Database initialized
+2025-04-10 14:28:38,813 - trade_logger - INFO - Trade logger initialized with database: logs/trades.db
+2025-04-10 14:28:38,813 - risk_manager - INFO - Risk manager initialized with cooldown: 180s, base risk: 3.00%
+2025-04-10 14:28:38,813 - risk_manager - INFO - Trade time recorded: 1744284518.8138418
+2025-04-10 14:28:38,813 - risk_manager - INFO - Trade cooldown in effect. 180.0s remaining.
+2025-04-10 14:28:40,835 - risk_manager - INFO - Trade cooldown in effect. 178.0s remaining.
+2025-04-10 14:28:42,036 - risk_manager - INFO - Position size calculation:
+2025-04-10 14:28:42,036 - risk_manager - INFO -   Balance: $14987.00
+2025-04-10 14:28:42,036 - risk_manager - INFO -   Base risk: 3.00%
+2025-04-10 14:28:42,042 - risk_manager - INFO -   Confidence: 0.50
+2025-04-10 14:28:42,042 - risk_manager - INFO -   Risk adjustment: 1.00
+2025-04-10 14:28:42,044 - risk_manager - INFO -   Scaled amount: $224.80
+2025-04-10 14:28:42,046 - risk_manager - INFO -   Price: $81576.20
+2025-04-10 14:28:42,046 - risk_manager - INFO -   Quantity: 0.002800 BTC
+2025-04-10 14:28:43,363 - risk_manager - INFO - Position size calculation:
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Balance: $14987.00
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Base risk: 3.00%
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Confidence: 0.70
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Risk adjustment: 1.00
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Scaled amount: $314.73
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Price: $81576.20
+2025-04-10 14:28:43,363 - risk_manager - INFO -   Quantity: 0.003900 BTC
+2025-04-10 14:28:45,211 - risk_manager - INFO - Position size calculation:
+2025-04-10 14:28:45,211 - risk_manager - INFO -   Balance: $14987.00
+2025-04-10 14:28:45,211 - risk_manager - INFO -   Base risk: 3.00%
+2025-04-10 14:28:45,211 - risk_manager - INFO -   Confidence: 0.90
+2025-04-10 14:28:45,215 - risk_manager - INFO -   Risk adjustment: 1.00
+2025-04-10 14:28:45,215 - risk_manager - INFO -   Scaled amount: $404.65
+2025-04-10 14:28:45,215 - risk_manager - INFO -   Price: $81575.60
+2025-04-10 14:28:45,215 - risk_manager - INFO -   Quantity: 0.005000 BTC
+2025-04-10 14:28:46,127 - risk_manager - INFO - Trade cooldown in effect. 172.7s remaining.
+2025-04-14 18:48:03,887 - bot - INFO - [SL-TRACK] Stored executed size: 0.00245 BTC
+2025-04-14 18:48:03,917 - bot - INFO - [SL-TRACK] Loaded size from active_position.json: 0.00245 BTC
+2025-04-14 18:48:03,920 - bot - WARNING - [SL-FALLBACK] Used exchange position size instead of file
